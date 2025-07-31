@@ -1,4 +1,4 @@
-
+[Forked from](https://framagit.org/MarianArlt/sddm-sugar-candy.git)
 
 ![Screenshot of the interface of the Sugar Candy theme for SDDM](Previews/PartialBlur.png "The default interface of the Sugar Candy theme for SDDM")
 
